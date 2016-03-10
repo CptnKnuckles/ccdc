@@ -1,0 +1,35 @@
+Windows Service Packs x86
+
+Server 2003 SP1
+https://www.microsoft.com/en-us/download/details.aspx?id=11435
+goo.gl/fqKtbl
+
+Server 2003 SP2
+https://www.microsoft.com/en-us/download/details.aspx?id=41
+goo.gl/XyB5sr
+
+Server 2008 SP2
+https://www.microsoft.com/en-us/download/details.aspx?id=16468
+goo.gl/ij6elv
+
+Server 2008 R2 SP1
+https://www.microsoft.com/en-us/download/details.aspx?id=5842
+goo.gl/tXayhO
+
+Windows 7 SP1
+https://www.microsoft.com/en-us/download/details.aspx?id=5842
+goo.gl/nVUS7w
+
+Windows Service Packs x64
+
+Server 2008 R2 SP1
+https://www.microsoft.com/en-us/download/details.aspx?id=5842
+goo.gl/nVUS7w
+
+Server 2008 R2 SP2
+https://www.microsoft.com/en-us/download/details.aspx?id=718
+goo.gl/Fohv2W
+
+Windows 7 SP1
+https://www.microsoft.com/en-us/download/details.aspx?id=5842
+goo.gl/nVUS7w
